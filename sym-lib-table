@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Nivalis")(type "KiCad")(uri "D:/Projects/KiCad/Nivalis.kicad_sym")(options "")(descr ""))
+  (lib (name "sao-workshop")(type "KiCad")(uri "D:/Projects/KiCad/sao-workshop.kicad_sym")(options "")(descr ""))
+)

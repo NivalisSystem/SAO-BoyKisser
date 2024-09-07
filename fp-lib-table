@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "sao-workshop")(type "KiCad")(uri "D:/Projects/KiCad/sao-workshop.pretty")(options "")(descr ""))
+)
